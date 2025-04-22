@@ -9,6 +9,8 @@ public class Program
         // Add services to the container.
         builder.Services.AddAuthorization();
 
+       Console.Write("Lazar brach");
+        
         var app = builder.Build();
         
         app.UseHttpsRedirection();
