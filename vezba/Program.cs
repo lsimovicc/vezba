@@ -14,6 +14,8 @@ public class Program
         Console.WriteLine("MVP debeli");
         Console.WriteLine("BIG Zu MIP");
         
+       Console.Write("Lazar brach");
+        Console.Write("Drugi tekst dodat");
         var app = builder.Build();
         
         app.UseHttpsRedirection();
