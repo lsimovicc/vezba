@@ -10,7 +10,7 @@ public class Program
         builder.Services.AddAuthorization();
 
        Console.Write("Lazar brach");
-        
+        Console.Write("Drugi tekst dodat");
         var app = builder.Build();
         
         app.UseHttpsRedirection();
