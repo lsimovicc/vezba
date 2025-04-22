@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lazar\\RiderProjects\\vezba\\vezba\\vezba.csproj": {}
+    "C:\\Users\\filip\\Desktop\\Files\\vezbaLaki\\vezba\\vezba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lazar\\RiderProjects\\vezba\\vezba\\vezba.csproj": {
+    "C:\\Users\\filip\\Desktop\\Files\\vezbaLaki\\vezba\\vezba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lazar\\RiderProjects\\vezba\\vezba\\vezba.csproj",
+        "projectUniqueName": "C:\\Users\\filip\\Desktop\\Files\\vezbaLaki\\vezba\\vezba.csproj",
         "projectName": "vezba",
-        "projectPath": "C:\\Users\\lazar\\RiderProjects\\vezba\\vezba\\vezba.csproj",
-        "packagesPath": "C:\\Users\\lazar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lazar\\RiderProjects\\vezba\\vezba\\obj\\",
+        "projectPath": "C:\\Users\\filip\\Desktop\\Files\\vezbaLaki\\vezba\\vezba.csproj",
+        "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\filip\\Desktop\\Files\\vezbaLaki\\vezba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lazar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

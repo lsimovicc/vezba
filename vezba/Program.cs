@@ -6,9 +6,14 @@ public class Program
     {
         var builder = WebApplication.CreateBuilder(args);
 
+        // Sa kosova si pare uzeo
+        
         // Add services to the container.
         builder.Services.AddAuthorization();
 
+        Console.WriteLine("MVP debeli");
+        Console.WriteLine("BIG Zu MIP");
+        
         var app = builder.Build();
         
         app.UseHttpsRedirection();
