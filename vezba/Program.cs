@@ -7,6 +7,7 @@ public class Program
         var builder = WebApplication.CreateBuilder(args);
 
         // Sa kosova si pare uzeo
+        //4 firme si otvorioo
         
         // Add services to the container.
         builder.Services.AddAuthorization();
